@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Loremipsum-ReactJS/static/css/main.4ac94dca.css",
+    "main.js": "/Loremipsum-ReactJS/static/js/main.d4092bbb.js",
+    "index.html": "/Loremipsum-ReactJS/index.html",
+    "main.4ac94dca.css.map": "/Loremipsum-ReactJS/static/css/main.4ac94dca.css.map",
+    "main.d4092bbb.js.map": "/Loremipsum-ReactJS/static/js/main.d4092bbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ac94dca.css",
+    "static/js/main.d4092bbb.js"
+  ]
+}
